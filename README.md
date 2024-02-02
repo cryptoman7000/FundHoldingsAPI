@@ -18,6 +18,6 @@ Open the 'wallet.json' file and replace the sample data (["0x000...", "0x000..."
 # Let's Get Started:
 Follow these simple steps, and you'll be on your way to effortlessly managing multiple wallets. If you have any questions or need assistance, refer to our detailed documentation or reach out to our support team.
 
-# USE MAGIC CODE : node main.js > walletresult.json
+# USE MAGIC CODE : "node main.js > walletresult.json"
 
 Happy tracking! 🌐✨
